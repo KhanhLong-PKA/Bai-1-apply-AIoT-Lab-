@@ -1,24 +1,23 @@
-# Thuc-hanh-github
-Phần 1 - Cấu hình Git
+# Bai 1 Apply AIoT Lab
 
-Lệnh để cấu hình Git:
+## Nhom bao gom 2 thanh vien
+```
+Truong Long Khanh
+Le Minh Quang
+```
 
-git config --global user.name "Name"
-
-git config --global user.email "abc@zy.com"
-
-Phần 2 - Khởi tạo Git repo
-
-Lênh để khởi tạo Gitrepo là: git init
-
-Phần 3 - Commit
-
-Dung hai lệnh để commit thay đổi lên Gitrepo:
-
-git add .
-
-git commit -m "Thông điệp commit"
-
-Phần 4 - Push
-
-Push localrepo lên Remote repo trên Github.
+## De bai
+Định nghĩa một xâu hình tròn có kích thước n là
+một mảng số s có độ dài là n, với s[n] nằm cạnh s[1]. Hải có một xâu
+như vậy. Tuy nhiên, xâu của Khánh có một điểm đặc biệt, đó là nếu hai
+phần tử nằm cạnh nhau trong xâu là bằng nhau, một trong hai sẽ biến
+mất. Xâu ban đầu của Khánh không tồn tại hai phần tử nằm cạnh nhau
+và bằng nhau như vậy.
+Khánh có thể thực hiện hành động sau cho đến khi xâu không còn
+phần tử nào:
+- Chọn một phần tử bất kì trong xâu rồi xóa nó đi.
+- Ví dụ: nếu xâu đó là [1, 2, 4, 2, 3, 2] và Hải xóa đi phần tử 4, thì
+xâu đó sẽ tự xóa đi một trong hai phần tử có giá trị là 2 và trở
+thành [1, 2, 3, 2]. Ngoài ra: nếu xâu có độ dài là 1 thì không
+phần tử nào sẽ bị tự động xóa đi cả.
+Khánh có thể thực hiện tối đa bao nhiêu lần hành động trên ?
