@@ -1,4 +1,4 @@
-# bài 1 Apply AIoT Lab
+# Bài 1 Apply AIoT Lab
 
 ## Nhóm bao gồm hai thành viên
 ```
