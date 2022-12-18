@@ -1,12 +1,12 @@
-# Bai 1 Apply AIoT Lab
+# bài 1 Apply AIoT Lab
 
-## Nhom bao gom 2 thanh vien
+## Nhóm bao gồm hai thành viên
 ```
-Truong Long Khanh
-Le Minh Quang
+Trương Long Khánh
+Lê Minh Quang
 ```
 
-## De bai
+## Đề bài
 Định nghĩa một xâu hình tròn có kích thước n là
 một mảng số s có độ dài là n, với s[n] nằm cạnh s[1]. Hải có một xâu
 như vậy. Tuy nhiên, xâu của Khánh có một điểm đặc biệt, đó là nếu hai
