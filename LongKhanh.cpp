@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
+
 using namespace std;
+
 const int maxn = 1001;
 int n , ans = 0 , a[maxn] , b[maxn] , c[maxn];
 int main()
