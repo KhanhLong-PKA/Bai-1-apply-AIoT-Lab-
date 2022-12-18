@@ -1,7 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
 void NhapMang(int *a,int n)
 {
     cout << "Nhap phan tu: ";
